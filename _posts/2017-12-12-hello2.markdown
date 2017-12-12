@@ -14,9 +14,6 @@ tags:
 > “第二篇Test ”
 
 
-## 图片
-![这真的是图片](http://imgsrc.baidu.com/imgad/pic/item/267f9e2f07082838f76cce1db299a9014c08f152.jpg "这是图片")
----
 ## LaTex
 $$E=mc^2$$
 $$\left. \frac{du}{dx} \right|_{x=0}$$
@@ -24,3 +21,7 @@ $$\int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy
 = \int_{\theta=0}^{2\pi} \int_{r=0}^R
 f(r\cos\theta,r\sin\theta) r\,dr\,d\theta$$
 $$\int_0^R \frac{2x\,dx}{1+x^2} = \log(1+R^2)$$
+
+## 图片
+![这真的是图片](http://imgsrc.baidu.com/imgad/pic/item/267f9e2f07082838f76cce1db299a9014c08f152.jpg "这是图片")
+---
