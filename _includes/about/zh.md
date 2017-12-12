@@ -1,7 +1,7 @@
 > 写写代码，做做设计，  
 > 离开世界之前，一切都是过程。
 
-Hey，我是Zihoo，病毒种，进化程度不明，多出没于[微博](weibo.com/secmatrix)、[博客](https://secmatrix.github.io)、[Github](http://github.com/secmatrix)等地带，绝招尚在开发中。
+Hey，我是SecMatrix，病毒种，进化程度不明，多出没于[微博](weibo.com/secmatrix)、[博客](https://secmatrix.github.io)、[Github](http://github.com/secmatrix)等地带，绝招尚在开发中。
 
 职业是学生，目前土硕在读，主要研究方向为[机器学习](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/217599?fr=aladdin)、[数据挖掘](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)、[深度学习](https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729)等。对J2EE开发、IOS开发、C算法设计也有所涉猎。
 

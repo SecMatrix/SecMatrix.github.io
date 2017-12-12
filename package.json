@@ -1,7 +1,7 @@
 {
-    "name": "zihoo-blog",
-    "title": "Zihoo's Blog",
-    "author": "Zihoo <secmatrix@hotmail.com>",
+    "name": "SecMatrix-blog",
+    "title": "SecMatrix's Blog",
+    "author": "SecMatrix <secmatrix@hotmail.com>",
     "version": "1.7.0",
     "homepage": "http://secmatrix.github.io",
     "repository": {
