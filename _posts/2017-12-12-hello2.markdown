@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Hello2"
+subtitle:   " \"Hello Blog 2\""
+date:       2017-12-12 17:54:28
+author:     "Zihoo"
+header-img: "img/post-bg-2017.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+> “第二篇Test ”
+
+
+## 正文
+第二篇ttt
+---
