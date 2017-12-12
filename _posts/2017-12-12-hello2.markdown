@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      "Hello2"
-subtitle:   " \"Hello Blog 2\""
+title:      "Markdown 测试"
+subtitle:   " \"markdown\""
 date:       2017-12-12 17:57:18
 author:     "Zihoo"
 header-img: "img/post-bg-2017.jpg"
 catalog: true
 tags:
     - 生活
+    - Markdown
 ---
 
 > “第二篇Test ”
