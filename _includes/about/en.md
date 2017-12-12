@@ -1,7 +1,7 @@
 > Yeah, I am someone.
 
 
-Hi, I am *@Someone* (SecMatrix), a sophomore in master's degree，major in computer science. My research direction is **Machine Learning** & **Data Mining**.
+Hi, I am *@Someone* (Zihoo), a sophomore in master's degree，major in computer science. My research direction is **Machine Learning** & **Data Mining**.
 
 <!--
 
