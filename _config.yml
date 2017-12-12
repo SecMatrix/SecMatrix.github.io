@@ -1,6 +1,6 @@
 # Site settings
-title: Zihoo Blog
-SEOTitle: 子豪的博客 | Zihoo Blog
+title: Zihoo's Blog
+SEOTitle: 子豪的博客 | Zihoo's Blog
 header-img: img/home-bg.jpg
 email: secmatrix@hotmail.com
 description: ""
@@ -17,7 +17,7 @@ RSS: false
 weibo_username:     SecMatrix
 zhihu_username:     SecMatrix
 github_username:    SecMatrix
-# twitter_username:   huxpro
+# twitter_username:
 facebook_username:  SecMatrix
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -50,10 +50,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+# disqus_username: hux
 
 # Netease setttings
-netease_comment: false
+# netease_comment: false
 
 
 
@@ -62,8 +62,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -92,34 +92,8 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+    {
+        title: "ACLegend's Weblog",
+        href: "http://www.aclegend.org/weblog/"
     }
 ]
