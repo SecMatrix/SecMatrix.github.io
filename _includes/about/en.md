@@ -1,4 +1,4 @@
-> I'm someone.
+> Yeah, I am someone.
 
 
 Hi, I am *@SecMatrix* (Leng, Zihao), a sophomore in master's degree，major in computer science. My research direction is **Machine Learning** & **Data Mining**.
