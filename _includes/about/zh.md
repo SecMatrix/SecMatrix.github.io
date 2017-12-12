@@ -1,11 +1,14 @@
 > 写写代码，做做设计，  
 > 离开世界之前，一切都是过程。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+Hey，我是Zihoo，病毒种，进化程度不明，多出没于[微博](weibo.com/secmatrix)、[博客](https://secmatrix.github.io)、[Github](http://github.com/secmatrix)等地带，绝招尚在开发中。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+职业是学生，目前土硕在读，主要研究方向为[机器学习](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/217599?fr=aladdin)、[数据挖掘](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)、[深度学习]（https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729）等。对J2EE开发、IOS开发、C算法设计也有所涉猎。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+兴趣爱好广泛，除擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机外，爱好 **马拉松**、**羽毛球** 等运动。也喜好旅游，经常在 **Azeroth** 、 **Skyrim** 等多地区自驾往返，醉迷山水之间。
+
+<!--
+一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。
 
 
 ##### Talks
@@ -28,4 +31,4 @@ Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https
 [6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
 [7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+[9]: //huangxuan.me/jsconfcn2017/ -->
