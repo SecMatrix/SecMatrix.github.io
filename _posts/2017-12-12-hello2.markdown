@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "1231231 "
+title:      "1231231"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2017-12-12 16:53:57
 author:     "Zihoo"
