@@ -57,10 +57,10 @@ kramdown:
 # netease_comment: false
 
 
-
+# baidu-analysis： 75161d628335d0aede01d44b41966acf
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: [your track id]
+ba_track_id: [75161d628335d0aede01d44b41966acf]
 
 # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
