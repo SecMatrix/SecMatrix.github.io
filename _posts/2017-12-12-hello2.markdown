@@ -54,11 +54,15 @@ cond(no)->op
 ## LaTex
 ![](http://latex.codecogs.com/gif.latex?E=mc^2)
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+![](http://latex.codecogs.com/gif.latex?\\left. \\frac{du}{dx} \\right|_{x=0})
+![](http://latex.codecogs.com/gif.latex?\\int_0^R \\frac{2x\\,dx}{1+x^2} = \\log(1+R^2))
 
-$$\left. \frac{du}{dx} \right|_{x=0}$$
-$$\int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy
-= \int_{\theta=0}^{2\pi} \int_{r=0}^R
-f(r\cos\theta,r\sin\theta) r\,dr\,d\theta$$
+![](http://latex.codecogs.com/gif.latex?\\int_{x^2 + y^2 \\leq R^2} f(x,y)\\,dx\\,dy
+= \\int_{\\theta=0}^{2\\pi} \\int_{r=0}^R
+f(r\\cos\\theta,r\\sin\\theta) r\\,dr\\,d\\theta)
+
+$$E=mc^2$$
+$$\frac{1}{1+sin(x)}$$
 $$\int_0^R \frac{2x\,dx}{1+x^2} = \log(1+R^2)$$
 
 ## 代码
