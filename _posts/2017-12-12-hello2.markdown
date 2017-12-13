@@ -52,7 +52,8 @@ cond(no)->op
 | 管线        |    \$1    |  234  |
 
 ## LaTex
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{E=mc^2})
+![](http://latex.codecogs.com/gif.latex?E=mc^2)
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 $$\left. \frac{du}{dx} \right|_{x=0}$$
 $$\int_{x^2 + y^2 \leq R^2} f(x,y)\,dx\,dy
