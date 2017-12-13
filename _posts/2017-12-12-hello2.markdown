@@ -54,7 +54,7 @@ cond(no)->op
 ## LaTex
 ![](http://latex.codecogs.com/gif.latex?E=mc^2)
 
-## 代码
+## 高亮代码
 
 ```python
 if __name__ == '__main__':
