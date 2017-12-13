@@ -5,7 +5,7 @@ subtitle:   ""
 date:       2017-12-13 09:31:41
 author:     "Zihoo"
 header-img: "img/post-bg-2017.jpg"
-header-mask:  0.3
+header-mask:  1
 catalog:      true
 multilingual: true
 tags:
