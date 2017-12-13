@@ -7,7 +7,6 @@ author:     "Zihoo"
 header-img: "img/post-bg-2017.jpg"
 catalog: true
 tags:
-    - 生活
     - Markdown
 ---
 
