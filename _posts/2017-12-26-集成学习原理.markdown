@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "集成学习（一）原理小结"
+subtitle:   "Ensemble Learning"
+date:       2017-12-26 13:01:21
+author:     "Zihoo"
+header-img: "img/post-bg-2017.jpg"
+header-mask:  0
+catalog:      true
+tags:
+    - Machine Learning
+    - Ensemble Learning
+---
+
+>
+
+---

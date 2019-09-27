@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "随机森林"
+subtitle:   "Random Forest"
+date:       2017-12-27 13:15:02
+author:     "Zihoo"
+header-img: "img/post-bg-2017.jpg"
+header-mask:  0
+catalog:      true
+tags:
+    - Machine Learning
+    - Ensemble Learning
+    - Random Forest
+---
+
+> 随机森林（Random Forest），是一种基于决策树（Decision Tree）的经典集成学习（Ensemble Learning）方法。
+
+> 参考文献：[Breiman, 2001] L. Breiman. Random forests. Machine Learning, 45(1):5–32, 2001.
+
+# 一、决策树
+如同森林离不开树木，既然要介绍随机森林，那就有必要从随机森林基础——
+决策树谈起。
+
+
+
+
+---
