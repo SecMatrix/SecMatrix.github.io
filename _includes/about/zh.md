@@ -3,9 +3,9 @@
 
 Hey，我是Zihoo，病毒种，进化程度不明，多出没于[微博](weibo.com/secmatrix)、[博客](https://secmatrix.github.io)、[Github](http://github.com/secmatrix)等地带，绝招尚在开发中。
 
-职业是学生，目前土硕在读，主要研究方向为[机器学习](https://baike.baidu.com/item/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/217599?fr=aladdin)、[数据挖掘](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98)、[深度学习](https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729)等。对J2EE开发、IOS开发、C算法设计也有所涉猎。
+职业是学生，目前计算机土博在读，做与海洋科学的学科交叉。研究方向为[**机器学习**](https://baike.baidu.com/item/机器学习/217599?fr=aladdin)、[**海洋遥感**](https://baike.baidu.com/item/海洋遥感/2444814?fr=aladdin)、**计算机图形学与图像处理**等。对J2EE开发、IOS开发、C算法设计也有所涉猎。
 
-兴趣爱好广泛，除擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac OS X、IOS、Android、WP8等系统的开关机外，爱好 **马拉松**、**羽毛球** 等运动。
+兴趣爱好广泛，除擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac OS、IOS、Android、WP8等系统的开关机外，爱好 **风光摄影**、**马拉松**、**羽毛球** 等。
 
 也喜好旅游，经常在 **Azeroth**、**Skyrim**、**Westeros** 等多地区自驾往返，醉迷山水之间。
 
